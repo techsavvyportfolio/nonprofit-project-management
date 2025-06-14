@@ -58,6 +58,8 @@ Sends a daily reminder for tasks due tomorrow using:
 - **Projects by Status**: Track which projects are Active vs. On Hold
 
 ## 🧾 Documentation
+📄 [Download Full Project Documentation](docs/Nonprofit_Project_Full.docx)
+
 - [User Guide](docs/User_Guide.md)
 - [Admin Setup Guide](docs/Admin_Guide.md)
 - [System Overview Diagram](docs/System_Design.md)

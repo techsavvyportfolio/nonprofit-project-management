@@ -34,27 +34,6 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 
 ## 📸 Screenshots
 > Screenshots are stored in the `/screenshots` folder:
-> ## 📸 Screenshots
-
-### Project App and Tabs
-![Nonprofit App](screenshots/non%20profit%20app.png)  
-![Projects Tab](screenshots/Projects%20Tab.png)  
-![Project Task Tab](screenshots/Project%20task%20tab.png)
-
-### Flow and Automation
-![Scheduled Flow](screenshots/Scheduled%20Flow.png)  
-![Variables Created](screenshots/Variables%20created.png)  
-![Email Template – Alert](screenshots/Email%20template%20–%20Alert.png)
-
----
-
-### 🗂️ Full Screenshot Archive
-Other screenshots are stored in `/screenshots` folder:
-- `Custom Object.png`
-- `Debug details.png`
-- `Email confirmation.png`
-- `Report 1.png`
-- `Dashboards.png`
 
 - `Project_Record_Page.png`
 - `Flow_Task_Reminder.png`
@@ -80,7 +59,6 @@ Sends a daily reminder for tasks due tomorrow using:
 - **Projects by Status**: Track which projects are Active vs. On Hold
 
 ## 🧾 Documentation
-📄 [Download Full Project Documentation](docs/Nonprofit_Project_Full.docx)
 
 - [User Guide](docs/User_Guide.md)
 - [Admin Setup Guide](docs/Admin_Guide.md)

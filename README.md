@@ -68,6 +68,18 @@ Sends a daily reminder for tasks due tomorrow using:
 - [🛠️ Admin Guide](docs/Admin_Guide.md)
 - [🧩 System Design](docs/System_Design.md)
 
+- ### 🧠 System Design Diagrams
+
+#### 🔧 System Architecture
+![System Architecture](docs/System_Architecture_Diagram.png)
+
+#### 🔁 Task Reminder Automation Flow
+![Reminder Flowchart](docs/Task_Reminder_Flowchart.png)
+
+#### 🧩 Data Model Diagram
+![Data Model](docs/Data_Model_Diagram.png)
+
+
 
 ## 📈 Outcomes
 - 95% reduction in missed deadlines

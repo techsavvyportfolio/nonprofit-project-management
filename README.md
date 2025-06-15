@@ -99,7 +99,8 @@ Sends a daily reminder for tasks due tomorrow using:
 
 
 #### 🧩 Data Model Diagram
-![Data Model](docs/Data_Model_Diagram.png)
+-[Data Model Diagram](docs/Data_Model_Diagram.png)
+
 
 
 

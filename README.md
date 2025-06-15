@@ -37,10 +37,26 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 ## 📸 Screenshots
 > Screenshots are stored in the `/screenshots` folder:
 
-- `Project_Record_Page.png`
-- `Flow_Task_Reminder.png`
-- `Dashboard_Project_Overview.png`
-- `Report_Tasks_By_Status.png`
+## 📸 Screenshots
+
+**Project Record Page**  
+![Project Record Page](screenshots/Project_Record_Page.png)
+
+**Task Reminder Flow**  
+![Task Reminder Flow](screenshots/Task_Reminder_Flow.png)
+
+**Flow Debug Example**  
+![Flow Debug Example](screenshots/Task_Reminder_debug.png)
+
+**Executive Dashboard**  
+![Executive Dashboard](screenshots/Executive_Dashboard.png)
+
+**Reports Overview**  
+![Reports Overview](screenshots/Reports_Overview.png)
+
+**Data Model from Org**  
+![Data Model](screenshots/Data_Model.png)
+
 
 ## 🎬 Walkthrough Videos
 > Videos are in the `/videos` folder. Short demos:

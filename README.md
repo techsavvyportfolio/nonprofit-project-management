@@ -42,22 +42,22 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 ## 📸 Screenshots
 
 **Project Record Page**  
-![Project Record Page](screenshots/Project_Record_Page.png)
+-[Project Record Page](screenshots/Project_Record_Page.png)
 
 **Task Reminder Flow**  
-![Task Reminder Flow](screenshots/Task_Reminder_Flow.png)
+-[Task Reminder Flow](screenshots/Task_Reminder_Flow.png)
 
 **Flow Debug Example**  
-![Flow Debug Example](screenshots/Task_Reminder_debug.png)
+-[Flow Debug Example](screenshots/Task_Reminder_debug.png)
 
 **Executive Dashboard**  
-![Executive Dashboard](screenshots/Executive_Dashboard.png)
+-[Executive Dashboard](screenshots/Executive_Dashboard.png)
 
 **Reports Overview**  
-![Reports Overview](screenshots/Reports_Overview.png)
+-[Reports Overview](screenshots/Reports_Overview.png)
 
 **Data Model from Org**  
-![Data Model](screenshots/Data_Model.png)
+-[Data Model](screenshots/Data_Model.png)
 
 
 

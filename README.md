@@ -57,7 +57,7 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 -[Reports Overview](screenshots/Reports_Overview.png)
 
 **Data Model from Org**  
--[Data Model](screenshots/Object_Model_png)
+-[Data Model](screenshots/Object_Model.png)
 
 
 

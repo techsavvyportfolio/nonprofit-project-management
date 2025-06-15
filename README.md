@@ -65,14 +65,16 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 > Videos are in the `/videos` folder. Short demos:
 - **System Overview** – 2 min
 - **Flow Demo** – 1 min
+  
 -[Test Task Reminder Flow](videos/test_task_reminder_flow.mp4)
 
 -[Confirm Email Was Sent](videos/confirm_email_sent_flow.mp4)
+
 - ## 🎬 Full Walkthrough (Bonus Videos)
 
 📁 Watch the full system setup, reports, dashboards, and automation walkthroughs here:
 
-👉 [📂 Google Drive Portfolio Videos](https://drive.google.com/file/d/1n1a-VrBteDax7GtlVHdMBpegfIK_jjia/view?usp=sharing)
+👉 [📂 Google Drive Portfolio Videos]()
 
 Includes:
 - Creating Custom Project Object

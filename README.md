@@ -95,7 +95,7 @@ Sends a daily reminder for tasks due tomorrow using:
 
 
 #### 🔁 Task Reminder Automation Flow
--![Task Reminder Flow Diagram](docs/Task_Reminder_Flow_Diagram.png)
+-[Task Reminder Flow Diagram](docs/Task_Reminder_Flow_Diagram.png)
 
 
 #### 🧩 Data Model Diagram

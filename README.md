@@ -127,7 +127,7 @@ Sends a daily reminder for tasks due tomorrow using:
 ---
 
 ## 🔗 Connect With Me
-- [LinkedIn Profile](https://www.linkedin.com/in/shamilafazaldin)
+- [LinkedIn Profile](https://www.linkedin.com/in/shamila-fazaldin-a443a0262)
 - [Portfolio Website](https://yourdomain.com)
 
 

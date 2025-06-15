@@ -2,22 +2,54 @@
 
 ## 📐 Technical Architecture
 
-The system uses a collection of custom and standard Salesforce objects with carefully designed relationships to balance flexibility with ease of use. Automation is provided through declarative tools (primarily Flows) rather than code, making the system maintainable even for organizations without development resources.
+This system is built using a combination of custom and standard Salesforce objects, intentionally designed to balance flexibility, scalability, and ease of use. Automation is implemented using declarative tools (primarily Flows), allowing even non-developers to maintain and adapt the system over time.
+
+---
 
 ## 🔗 Key Object Relationships
 
-- **Project** (Custom Object) — central to all activities
-- **Project Task** (Custom Object) — linked to Projects
-- **User / Contact** — assigned to Projects and Tasks
-- **Reports & Dashboards** — draw data from Projects + Tasks
-- **Automation** — one Scheduled Flow for reminders
+- **Project (Custom Object)**  
+  Serves as the central object where all initiatives are tracked.
 
-## 🔄 Flow Overview
+- **Project Task (Custom Object)**  
+  Linked to Projects via a lookup relationship; used to manage to-dos, milestones, and timelines.
 
-A single **Scheduled Flow** checks for tasks due tomorrow, loops through them, and sends reminder emails.
+- **User / Contact**  
+  Assigned as owners to Projects and Tasks for visibility and accountability.
 
-## 📊 Visual Diagram
+- **Reports & Dashboards**  
+  Pull data from both Project and Task objects to support real-time visibility and decision-making.
 
-![System Architecture Diagram](System_Architecture.png)
+- **Automation**  
+  Uses one core Scheduled Flow to handle deadline reminders and task tracking.
 
-> (See diagram in `/docs/System_Architecture.png`)
+---
+
+## 🔄 Flow Automation Overview
+
+- **Scheduled Flow: Task Reminder System**
+  - Runs daily at a scheduled time.
+  - Finds Project Tasks with Due Date = Tomorrow.
+  - Loops through the results.
+  - Sends email reminders to task owners.
+
+This no-code automation ensures that deadlines are not missed, without relying on manual follow-ups.
+
+---
+
+## 📊 Visual Architecture Diagram
+
+A high-level system diagram provides a visual understanding of how the key components interact.
+
+📍 See `/docs/System_Architecture.png`  
+Make sure this image file is uploaded in your `/docs` folder and linked in your `README.md`.
+
+---
+
+## ✅ Summary
+
+This design demonstrates:
+- A scalable Salesforce data model for nonprofit projects
+- Automation using Flows instead of Apex
+- Real-time reporting and alerting
+- Lightweight architecture that’s easy to deploy and manage

@@ -39,6 +39,8 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 **Project Record Page**  
 ![Project Record Page](screenshots/Project_Record_Page.png)
 
@@ -56,6 +58,7 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 
 **Data Model from Org**  
 ![Data Model](screenshots/Data_Model.png)
+
 
 
 ## 🎬 Walkthrough Videos

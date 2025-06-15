@@ -66,7 +66,7 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 - **System Overview** – 2 min
 - **Flow Demo** – 1 min
 - [Test Task Reminder Flow](videos/Test_Flow.mp4)
-- [Confirm Email Was Sent](videos/05_confirm_email_sent_flow.mp4)
+- [Confirm Email Was Sent](videos/confirm_email_sent_flow.mp4)
 - ## 🎬 Full Walkthrough (Bonus Videos)
 
 📁 Watch the full system setup, reports, dashboards, and automation walkthroughs here:

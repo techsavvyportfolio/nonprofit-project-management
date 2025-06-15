@@ -61,7 +61,8 @@ Sends a daily reminder for tasks due tomorrow using:
 ## 🧾 Documentation
 📄 [Download Full Documentation (PDF)](docs/Nonprofit_Project_Full_Documentation.pdf)
 
-- [User Guide](docs/User_Guide.md)
+- [User Guide](docs/User_Guide.md) 📘 [Click here to view the full User Guide PDF](docs/Full_User_Guide.pdf)
+
 - [Admin Setup Guide](docs/Admin_Guide.md)
 - [System Overview Diagram](docs/System_Design.md)
 

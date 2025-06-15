@@ -64,8 +64,23 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 ## 🎬 Walkthrough Videos
 > Videos are in the `/videos` folder. Short demos:
 - **System Overview** – 2 min
-- **Flow Demo** – 2 min
-- **Reporting & Dashboards** – 2 min
+- **Flow Demo** – 1 min
+- [Test Task Reminder Flow](videos/04_test_task_reminder_flow.mp4)
+- [Confirm Email Was Sent](videos/05_confirm_email_sent_flow.mp4)
+- ## 🎬 Full Walkthrough (Bonus Videos)
+
+📁 Watch the full system setup, reports, dashboards, and automation walkthroughs here:
+
+👉 [📂 Google Drive Portfolio Videos](https://drive.google.com/file/d/1n1a-VrBteDax7GtlVHdMBpegfIK_jjia/view?usp=sharing)
+
+Includes:
+- Creating Custom Project Object
+- Creating Project Tasks for Assigned Community
+- Creating Master-Detail Relationship
+- Dashboard Overview
+- Setting 'Send Email' Inside Loop
+
+- **Reporting & Dashboards** – 1 min
 
 ## 📝 How It Works
 ### 1. Task Reminder Flow

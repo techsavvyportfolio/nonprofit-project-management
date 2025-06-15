@@ -63,7 +63,8 @@ Sends a daily reminder for tasks due tomorrow using:
 ## 🧾 Documentation
 
 - [🧭 Project Overview](docs/Project_Overview.md)
-- [🧑‍💻 User Guide](docs/User_Guide.md)    📘 [Click here to view the full User Guide PDF](docs/Full_User_Guide.pdf) -Step-by-step walkthrough for end users
+- [🧑‍💻 User Guide](docs/User_Guide.md)
+- [📘 [Click here to view the full User Guide PDF](docs/Full_User_Guide.pdf) -Step-by-step walkthrough for end users
   (nonprofit staff).
 - [🛠️ Admin Guide](docs/Admin_Guide.md)
 - [🧩 System Design](docs/System_Design.md)

@@ -37,9 +37,6 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 ## 📸 Screenshots
 > Screenshots are stored in the `/screenshots` folder:
 
-## 📸 Screenshots
-
-## 📸 Screenshots
 
 **Project Record Page**  
 -[Project Record Page](screenshots/Project_Record_Page.png)
@@ -60,38 +57,21 @@ A custom-built Salesforce system designed for nonprofit project management, incl
 -[Data Model](screenshots/Object_Model.png)
 
 
-## 🎬 Mini Video Demos
-
-> Videos are in the `/videos` folder. Short demos:
-
-- **Flow Demo** – 1 min
-  
--[Test Task Reminder Flow](videos/test_task_reminder_flow.mp4)
-
--[Confirm Email Was Sent](videos/confirm_email_sent_flow.mp4)
 
 - ## 🎬 Full Walkthrough (Bonus Videos)
 
-📁 Watch the full system setup, reports, dashboards, and automation walkthroughs here:
+📁 Watch the full step-by-step screen recordings of system setup, reports, dashboards, and automation walkthroughs here:
 
 👉 [📂 Google Drive Portfolio Videos](https://drive.google.com/drive/folders/1Zh97DfH4vwkskPc4xPFD2wNSim-mNK_k?usp=sharing)
-
-
-
-- 📩 [Confirm Email Sent](videos/Confirm_Email_Sent.mp4)
-- ⏰ [Test Task Reminder Flow](videos/Test_Task_Reminder_Flow.mp4)
-
-> _Note: GitHub only supports downloads for videos, not previews._
 
 
 Includes:
 - Creating Custom Project Object
 - Creating Project Tasks for Assigned Community
 - Creating Master-Detail Relationship
-- Dashboard Overview
+- Reports & Dashboard Overview
 - Setting 'Send Email' Inside Loop
 
-- **Reporting & Dashboards** – 1 min
 
 ## 📝 How It Works
 ### 1. Task Reminder Flow
@@ -146,7 +126,7 @@ Sends a daily reminder for tasks due tomorrow using:
 ---
 
 ## 🔗 Connect With Me
-- [LinkedIn Profile](https://www.linkedin.com/in/YOUR-USERNAME)
+- [LinkedIn Profile](https://www.linkedin.com/in/shamilafazaldin)
 - [Portfolio Website](https://yourdomain.com)
 
 
